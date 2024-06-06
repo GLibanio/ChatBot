@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Hello!",
+      "answer": "Hello! How can I help you?"
+    },
+    {
+      "question": "I need to undestand english, do you help me?",
+      "answer": "No try other chatbot"
+    },
+    {
+      "question": "How can I say carro in english?",
+      "answer": "carro in English is Car!"
+    }
+  ]
+}
